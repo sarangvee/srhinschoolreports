@@ -1,0 +1,18 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "Test",
+  "main": "index.js",
+  "scripts": {
+    "test": "Testcommand"
+  },
+  "repository": {
+    "type": "git",
+    "url": "Testrepo"
+  },
+  "keywords": [
+    "sara"
+  ],
+  "author": "saravanan",
+  "license": "ISC"
+}

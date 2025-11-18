@@ -1,0 +1,9 @@
+{
+    "name": "Good boy",
+    "age": 5,
+    "color": "Brown",
+    "breed":"Labrador",
+    "vaccinated":true,
+    "owner":{"name":"Jishnu","Mobile":"9941456453"},
+    "favFoods":["Chicken","Biscuts"]
+}
